@@ -191,6 +191,11 @@
 			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<Role>God</Role>
 			<Role>ТолькоСправочники</Role>
+			<Role>ПолныеПрава</Role>
+			<Role>ЧтениеДокументов</Role>
+			<Role>ЧтениеКонтрагентов</Role>
+			<Role>ИзменениеДокументов</Role>
+			<Role>ИзменениеКонтрагентов</Role>
 			<CommonModule>РаботаСТекущимПользователемПолныеПрава</CommonModule>
 			<Catalog>Валюты</Catalog>
 			<Catalog>Организации</Catalog>
