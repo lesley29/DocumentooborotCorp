@@ -19,12 +19,11 @@
 			<ContextMenu name="НаименованиеКонтекстноеМеню" id="5"/>
 			<ExtendedTooltip name="НаименованиеРасширеннаяПодсказка" id="6"/>
 		</InputField>
-		<InputField name="Идентификатор" id="7">
+		<LabelField name="Идентификатор" id="13">
 			<DataPath>Объект.Идентификатор</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ContextMenu name="ИдентификаторКонтекстноеМеню" id="8"/>
-			<ExtendedTooltip name="ИдентификаторРасширеннаяПодсказка" id="9"/>
-		</InputField>
+			<ContextMenu name="ИдентификаторКонтекстноеМеню" id="14"/>
+			<ExtendedTooltip name="ИдентификаторРасширеннаяПодсказка" id="15"/>
+		</LabelField>
 		<InputField name="Роль" id="10">
 			<DataPath>Объект.Роль</DataPath>
 			<ListChoiceMode>true</ListChoiceMode>
