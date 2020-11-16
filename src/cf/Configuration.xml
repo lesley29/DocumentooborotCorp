@@ -211,6 +211,7 @@
 			<Catalog>ВнутренниеДокументы</Catalog>
 			<Catalog>ВидыДокументов</Catalog>
 			<DataProcessor>ЗвпускОбновленияИндексаСодержимымФайлов</DataProcessor>
+			<InformationRegister>ФИОФизическихЛиц</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
