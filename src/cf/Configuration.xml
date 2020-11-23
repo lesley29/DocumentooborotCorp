@@ -196,6 +196,7 @@
 			<Role>ЧтениеКонтрагентов</Role>
 			<Role>ИзменениеДокументов</Role>
 			<Role>ИзменениеКонтрагентов</Role>
+			<Role>СогласованиеДокументов</Role>
 			<CommonModule>РаботаСТекущимПользователемПолныеПрава</CommonModule>
 			<CommonModule>ПолнотекстовыйПоискПоСодержимомуФайлов</CommonModule>
 			<CommonModule>РаботаСФайламиКлиентСервер</CommonModule>
@@ -210,6 +211,7 @@
 			<Catalog>Файлы</Catalog>
 			<Catalog>ВнутренниеДокументы</Catalog>
 			<Catalog>ВидыДокументов</Catalog>
+			<Enum>СтатусыВнутреннегоДокумента</Enum>
 			<DataProcessor>ЗвпускОбновленияИндексаСодержимымФайлов</DataProcessor>
 			<InformationRegister>ФИОФизическихЛиц</InformationRegister>
 		</ChildObjects>
