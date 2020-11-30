@@ -58,6 +58,11 @@
 			<ContextMenu name="КомментарийКонтекстноеМеню" id="20"/>
 			<ExtendedTooltip name="КомментарийРасширеннаяПодсказка" id="21"/>
 		</InputField>
+		<InputField name="Проект" id="50">
+			<DataPath>Объект.Проект</DataPath>
+			<ContextMenu name="ПроектКонтекстноеМеню" id="51"/>
+			<ExtendedTooltip name="ПроектРасширеннаяПодсказка" id="52"/>
+		</InputField>
 		<InputField name="Статус" id="44">
 			<DataPath>Объект.Статус</DataPath>
 			<UserVisible>

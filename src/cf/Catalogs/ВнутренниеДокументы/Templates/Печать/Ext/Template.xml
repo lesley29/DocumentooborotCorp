@@ -292,6 +292,23 @@
 	</rowsItem>
 	<rowsItem>
 		<index>10</index>
+		<row>
+			<c>
+				<i>1</i>
+				<c>
+					<f>18</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Проект "[ИмяПроекта]" № [НомерПроекта] от [ДатаПроекта]</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>11</index>
 		<indexTo>13</indexTo>
 		<row>
 			<empty>true</empty>
@@ -303,37 +320,37 @@
 			<c>
 				<i>1</i>
 				<c>
-					<f>2</f>
+					<f>19</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 		</row>
@@ -344,37 +361,37 @@
 			<c>
 				<i>1</i>
 				<c>
-					<f>2</f>
+					<f>19</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 		</row>
@@ -385,37 +402,37 @@
 			<c>
 				<i>1</i>
 				<c>
-					<f>2</f>
+					<f>19</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 		</row>
@@ -426,43 +443,43 @@
 			<c>
 				<i>1</i>
 				<c>
-					<f>2</f>
+					<f>19</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 				</c>
 			</c>
 		</row>
 	</rowsItem>
 	<templateMode>true</templateMode>
-	<defaultFormatIndex>18</defaultFormatIndex>
+	<defaultFormatIndex>20</defaultFormatIndex>
 	<height>15</height>
 	<vgRows>15</vgRows>
 	<merge>
@@ -501,7 +518,7 @@
 		<area>
 			<type>Rows</type>
 			<beginRow>4</beginRow>
-			<endRow>9</endRow>
+			<endRow>10</endRow>
 			<beginColumn>-1</beginColumn>
 			<endColumn>-1</endColumn>
 		</area>
@@ -511,7 +528,7 @@
 		<width>16</width>
 	</format>
 	<format>
-		<width>118</width>
+		<width>119</width>
 	</format>
 	<format>
 		<width>647</width>
@@ -569,6 +586,12 @@
 	</format>
 	<format>
 		<height>156</height>
+	</format>
+	<format>
+		<fillType>Template</fillType>
+	</format>
+	<format>
+		<width>118</width>
 	</format>
 	<format>
 		<width>72</width>
