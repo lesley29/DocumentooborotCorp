@@ -191,7 +191,7 @@
 			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<SessionParameter>РазделительЗначение</SessionParameter>
 			<SessionParameter>РазделительИспользование</SessionParameter>
-			<Role>God</Role>
+			<Role>Администратор</Role>
 			<Role>ТолькоСправочники</Role>
 			<Role>ПолныеПрава</Role>
 			<Role>ЧтениеДокументов</Role>

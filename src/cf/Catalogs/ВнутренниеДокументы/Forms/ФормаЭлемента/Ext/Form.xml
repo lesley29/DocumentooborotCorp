@@ -67,7 +67,7 @@
 			<DataPath>Объект.Статус</DataPath>
 			<UserVisible>
 				<xr:Common>true</xr:Common>
-				<xr:Value name="Role.God">true</xr:Value>
+				<xr:Value name="Role.Администратор">true</xr:Value>
 				<xr:Value name="Role.ТолькоСправочники">true</xr:Value>
 				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="Role.ЧтениеДокументов">true</xr:Value>
