@@ -189,6 +189,8 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
+			<SessionParameter>РазделительЗначение</SessionParameter>
+			<SessionParameter>РазделительИспользование</SessionParameter>
 			<Role>God</Role>
 			<Role>ТолькоСправочники</Role>
 			<Role>ПолныеПрава</Role>
@@ -200,6 +202,7 @@
 			<CommonModule>РаботаСТекущимПользователемПолныеПрава</CommonModule>
 			<CommonModule>ПолнотекстовыйПоискПоСодержимомуФайлов</CommonModule>
 			<CommonModule>РаботаСФайламиКлиентСервер</CommonModule>
+			<CommonAttribute>Разделитель</CommonAttribute>
 			<ScheduledJob>ОбновлениеИндексаСодержимымФайлов</ScheduledJob>
 			<Catalog>Валюты</Catalog>
 			<Catalog>Организации</Catalog>
