@@ -162,7 +162,7 @@
 			<Events>
 				<Event name="InteractiveActivationProcessing"/>
 				<Event name="BeforeCreateTasks"/>
-				<Event name="OnCreateTask"/>
+				<Event name="OnCreateTask">ВыполнитьПриСозданииЗадач</Event>
 				<Event name="OnExecute">ВыполнитьПриВыполнении</Event>
 				<Event name="CheckExecutionProcessing"/>
 				<Event name="BeforeExecute"/>
